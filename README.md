@@ -30,3 +30,7 @@ Implementace Monte Carlo simulace pro finanční portfolio pomocí náhodných p
 * Vizualizace distribuce konečných hodnot pomocí histogramů a pásem spolehlivosti (5% a 95% kvantily)
 * Porovnání průměrných výnosů jednotlivých aktiv a celkového portfolia
 * Analýza vlivu diverzifikace na celkové riziko a výnos portfolia
+
+## Repozitář nejen pro projekty na MSW
+Průběhem času tento repozitář bude sloužit i jako uložiště projektů, které budou úzce souviset s analýzou dat a vizualizace
+matematickými a statistickými metodami.
